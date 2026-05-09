@@ -1,0 +1,4 @@
+requests>=2.31
+pillow>=10.0
+pystray>=0.19
+keyring>=24.0; sys_platform == "win32"

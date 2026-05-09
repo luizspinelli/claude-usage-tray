@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Local artifacts
+*.log
+*.zip
+_preview_*.png
+
+# Environment
+.env
+.env.local
+
+# Test coverage
+.coverage
+htmlcov/
+coverage.xml
+*.cover
